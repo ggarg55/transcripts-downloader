@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Classroom Transcript Downloader",
+    "version": "1.0",
+    "description": "Download Google Classroom transcripts",
+    "permissions": ["activeTab", "scripting"],
+    "action": {
+      "default_popup": "popup.html"
+    }
+  }
