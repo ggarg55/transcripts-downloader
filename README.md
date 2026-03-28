@@ -1,6 +1,3 @@
-Here’s a clean, professional **README.md** you can use for your GitHub repo:
-
-````md
 # 🎥 Transcript Downloader Chrome Extension
 
 A simple Chrome extension that allows you to download transcripts from online video streaming platforms.
@@ -14,15 +11,12 @@ A simple Chrome extension that allows you to download transcripts from online vi
 ## 📦 Installation
 
 1. Clone or download this repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-````
+
+   git clone https://github.com/ggarg55/transcripts-downloader.git
 
 2. Open Google Chrome and go to:
 
-   ```
    chrome://extensions/
-   ```
 
 3. Enable **Developer mode** (toggle in the top-right corner)
 
@@ -34,7 +28,7 @@ A simple Chrome extension that allows you to download transcripts from online vi
 
 1. Open any video streaming platform (e.g., YouTube, Google Classroom)
 
-2. Navigate to the **transcript section** of the video
+2. Navigate to the transcript section of the video
 
 3. Click on the extension icon in the Chrome toolbar
 
@@ -42,7 +36,5 @@ A simple Chrome extension that allows you to download transcripts from online vi
 
 ## ⚠️ Notes
 
-* Make sure the transcript section is visible before using the extension
-* Functionality may vary depending on the platform
-- Or tailor it for publishing on Chrome Web Store
-```
+- Make sure the transcript section is visible before using the extension
+- Functionality may vary depending on the platform
