@@ -1,9 +1,20 @@
 {
     "manifest_version": 3,
-    "name": "Classroom Transcript Downloader",
-    "version": "1.0",
-    "description": "Download Google Classroom transcripts",
+    "name": "Classroom Pro Downloader",
+    "version": "2.0",
+    "description": "Professional-grade tool for batch downloading Classroom materials, transcripts, and code scripts.",
     "permissions": ["activeTab", "scripting"],
+    "host_permissions": [
+      "https://classroom.google.com/*",
+      "https://drive.google.com/*",
+      "https://docs.google.com/*",
+      "https://*.google.com/*",
+      "https://*.googleusercontent.com/*",
+      "https://*.udemy.com/*"
+    ],
+    "icons": {
+      "128": "icons/icon128.png"
+    },
     "action": {
       "default_popup": "popup.html"
     }
